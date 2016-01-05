@@ -4,8 +4,15 @@
         <description><![CDATA[NathanBurley2165]]></description>
         <link>https://thegrid.ai/nathanburley2165/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 09:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 20:19:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nathanburley2165/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Blog]]></title>
+            <description><![CDATA[<h1>My Blog</h1>]]></description>
+            <link>https://thegrid.ai/nathanburley2165/my-blog/index.html</link>
+            <guid isPermaLink="false">e6c80e82-24e5-4973-8029-f152cb2b080e</guid>
+            <pubDate>Tue, 05 Jan 2016 20:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First!]]></title>
             <description><![CDATA[<article><h1>First!</h1><p>Here's my first post to The Grid!</p></article>]]></description>
