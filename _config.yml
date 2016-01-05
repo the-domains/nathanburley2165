@@ -1,6 +1,6 @@
 name: NathanBurley2165
 favicon: null
-layout_spectrum: 0.56874
+layout_spectrum: 0.60848
 typography_spectrum: 0.31486
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.19613678008317947
+    - '#ffffff'
+    - '#4285f4'
+    - '#ea4335'
+    - '#fbbc05'
+    - '#704b43'
+  brandStrength: 0.1875
   lightness: 0.2199016623198986
   saturation: 0.18524051178246737
   rhythmicContrast: 0.7040610816329718
