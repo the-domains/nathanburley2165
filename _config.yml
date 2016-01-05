@@ -1,6 +1,6 @@
 name: NathanBurley2165
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.5931
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#60492a'
     - '#d06108'
   brandStrength: 0
-  lightness: 0.2199016623198986
-  saturation: 0.18524051178246737
-  rhythmicContrast: 0.7040610816329718
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
